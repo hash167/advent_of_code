@@ -1,0 +1,6 @@
+cuelang.org/go v0.9.2 h1:pfNiry2PdRBr02G/aKm5k2vhzmqbAOoaB4WurmEbWvs=
+cuelang.org/go v0.9.2/go.mod h1:qpAYsLOf7gTM1YdEg6cxh553uZ4q9ZDWlPbtZr9q1Wk=
+github.com/cockroachdb/apd/v3 v3.2.1 h1:U+8j7t0axsIgvQUqthuNm82HIrYXodOV2iWLWtEaIwg=
+github.com/cockroachdb/apd/v3 v3.2.1/go.mod h1:klXJcjp+FffLTHlhIG69tezTDvdP065naDsHzKhYSqc=
+golang.org/x/text v0.15.0 h1:h1V/4gjBv8v9cjcR6+AR5+/cIYK5N/WAgiv4xlsEtAk=
+golang.org/x/text v0.15.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
